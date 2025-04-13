@@ -42,13 +42,13 @@ populate_installed_apps() {
 		installed_formulas+=("${app}")
 	done < <(brew list --formula)
 
-	while IFS= read -r app; do
-		installed_mas+=("${app}")
-	done < <(mas list | cut -d' ' -f1)
+	# while IFS= read -r app; do
+	# 	installed_mas+=("${app}")
+	# done < <(mas list | cut -d' ' -f1)
 
-	while IFS= read -r app; do
-		installed_uv+=("${app}")
-	done < <(uv tool list | cut -d' ' -f1)
+	# while IFS= read -r app; do
+	# 	installed_uv+=("${app}")
+	# done < <(uv tool list | cut -d' ' -f1)
 }
 
 # Function to check if an item is in an array
