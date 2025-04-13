@@ -12,7 +12,6 @@ gitlab.gitlab-workflow
 golang.go
 hashicorp.terraform
 jock.svg
-luisfontes19.vscode-swissknife
 mechatroner.rainbow-csv
 mhutchie.git-graph
 ms-azuretools.vscode-docker
