@@ -21,7 +21,6 @@ ms-python.isort
 ms-python.python
 ms-vscode.makefile-tools
 ms-vscode.powershell
-ms-vsliveshare.vsliveshare
 nefrob.vscode-just-syntax
 nrwl.angular-console
 oderwat.indent-rainbow
