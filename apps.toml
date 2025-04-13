@@ -1,0 +1,34 @@
+[core]
+1password = "cask" # Password manager that keeps all passwords secure behind one password
+1password-cli = "cask" # Command-line interface for 1Password [command: op]
+
+[developer]
+warp = "cask" # Terminal
+cursor = "cask" # Write, edit, and chat about your code with AI
+docker = "cask" # App to build and share containerised applications and microservices
+golang = "formula" # Open source programming language to build simple/reliable/efficient software
+"oven-sh/bun/bun" = "formula" # Bun is an all-in-one toolkit for JavaScript and TypeScript apps
+
+[work]
+awscli = "formula" # Official Amazon AWS command-line interface
+azure-cli = "formula" # Official Azure command-line interface
+kubernetes-cli = "formula"
+helm = "formula"
+tenv = "formula"
+
+[productivity]
+slack = "cask" # Team communication and collaboration software
+zoom = "cask" # Video communication and virtual meeting platform
+spotify = "cask" # Music streaming service
+
+[social]
+telegram = "cask" # Messaging app with a focus on speed and security
+
+[cli-tools]
+httpie = "formula" # User-friendly cURL replacement (command-line HTTP client)
+jq = "formula" # Lightweight and flexible command-line JSON processor
+nano = "formula" # Free (GNU) replacement for the Pico text editor
+telnet = "formula" # User interface to the TELNET protocol
+tree = "formula" # Display directories as trees (with optional color/HTML output)
+wget = "formula" # Internet file retriever
+yq = "formula" # Process YAML, JSON, XML, CSV and properties documents from the CLI
