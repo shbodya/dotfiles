@@ -49,5 +49,8 @@
     "workbench.activityBar.orientation": "vertical",
     "workbench.colorTheme": "Default Dark Modern",
     "cursor.cpp.enablePartialAccepts": true,
-    "gitlab.duoChat.enabled": false
+    "gitlab.duoChat.enabled": false,
+    "amazonQ.telemetry": false,
+    "extensions.ignoreRecommendations": true,
+    "extensions.verifySignature": false
 }
