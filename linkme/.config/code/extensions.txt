@@ -1,7 +1,6 @@
 amazonwebservices.amazon-q-vscode
 amazonwebservices.aws-toolkit-vscode
 anysphere.pyright
-azureadb2ctools.aadb2c
 bradlc.vscode-tailwindcss
 charliermarsh.ruff
 clemenspeters.format-json
