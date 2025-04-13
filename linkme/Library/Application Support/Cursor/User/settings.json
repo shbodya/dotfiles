@@ -52,5 +52,9 @@
     "gitlab.duoChat.enabled": false,
     "amazonQ.telemetry": false,
     "extensions.ignoreRecommendations": true,
-    "extensions.verifySignature": false
+    "extensions.verifySignature": false,
+    "aws.telemetry": false,
+    "amazonQ.suppressPrompts": {
+        "amazonQChatDisclaimer": true
+    }
 }
