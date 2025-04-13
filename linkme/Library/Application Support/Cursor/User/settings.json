@@ -1,0 +1,53 @@
+{
+    "workbench.sideBar.location": "right",
+    "editor.fontSize": 16,
+    "editor.suggestSelection": "first",
+    "workbench.startupEditor": "newUntitledFile",
+    "git.autofetch": true,
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "terminal.integrated.fontSize": 16,
+    "explorer.confirmDelete": false,
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb",
+        "*.png": "editor.excalidraw"
+    },
+    "terminal.external.osxExec": "warp.app",
+    "git.confirmSync": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "redhat.telemetry.enabled": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.inlineSuggest.enabled": false,
+    "workbench.iconTheme": "vscode-icons",
+    "editor.tabSize": 2,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "[xml]": {
+        "editor.defaultFormatter": "redhat.vscode-xml"
+    },
+    "[terraform]": {
+        "editor.defaultFormatter": "hashicorp.terraform"
+    },
+    "terminal.integrated.defaultProfile.osx": "zsh",
+    "terminal.integrated.scrollback": 100000,
+    "terminal.integrated.shellIntegration.history": 1000,
+    "environment.default": "dev",
+    "editor.inlineSuggest.showToolbar": "always",
+    "workbench.editor.empty.hint": "hidden",
+    "nxConsole.showNodeVersionOnStartup": false,
+    "git.ignoreRebaseWarning": true,
+    "dineug.erd-editor.theme.appearance": "light",
+    "dineug.erd-editor.theme.grayColor": "slate",
+    "dineug.erd-editor.theme.accentColor": "indigo",
+    "excalidraw.theme": "light",
+    "prisma.showPrismaDataPlatformNotification": false,
+    "workbench.editor.wrapTabs": true,
+    "workbench.editor.enablePreview": false,
+    "explorer.compactFolders": false,
+    "cursor.composer.collapsePaneInputBoxPills": true,
+    "github.copilot.preferredAccount": "shbodya",
+    "workbench.activityBar.orientation": "vertical",
+    "workbench.colorTheme": "Default Dark Modern",
+    "cursor.cpp.enablePartialAccepts": true,
+    "gitlab.duoChat.enabled": false
+}

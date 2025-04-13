@@ -1,0 +1,17 @@
+// Place your key bindings in this file to override the defaultsauto[]
+[
+    {
+        "key": "cmd+k",
+        "command": "toggleExplainMode",
+        "when": "suggestWidgetVisible"
+    },
+    {
+        "key": "cmd+/",
+        "command": "-toggleExplainMode",
+        "when": "suggestWidgetVisible"
+    },
+    {
+        "key": "cmd+i",
+        "command": "composerMode.agent"
+    }
+]

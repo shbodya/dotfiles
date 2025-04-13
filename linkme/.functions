@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+
+# Run .install.sh
+function syncapps() {
+	bash "${DOTPATH}/install.sh"
+}
+
+function bootstrap() {
+	bash "${DOTPATH}/bootstrap.sh" -y
+}
