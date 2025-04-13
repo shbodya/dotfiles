@@ -29,7 +29,6 @@ postman.postman-for-vscode
 prisma.prisma
 redhat.vscode-xml
 redhat.vscode-yaml
-sonarsource.sonarlint-vscode
 task.vscode-task
 vscode-icons-team.vscode-icons
 vue.volar

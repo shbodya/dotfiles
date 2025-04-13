@@ -5,3 +5,5 @@ alias week='date +%V'
 
 # Recursively delete `.DS_Store` files
 alias cleanup="find . -type f -name '*.DS_Store' -ls -delete"
+
+alias tf="terraform"

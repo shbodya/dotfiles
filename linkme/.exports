@@ -15,3 +15,9 @@ export GOPATH="${HOME}/.go"
 
 # Add dotfiles (should match the one in bootstrap.sh)
 export DOTPATH="${HOME}/.dotfiles"
+
+export NVM_DIR="$HOME/.nvm"
+[ -s "/opt/homebrew/opt/nvm/nvm.sh" ] && \. "/opt/homebrew/opt/nvm/nvm.sh"
+[ -s "/opt/homebrew/opt/nvm/etc/bash_completion.d/nvm" ] && \. "/opt/homebrew/opt/nvm/etc/bash_completion.d/nvm"
+
+# export PATH=/Users/bohdan/.config/toolgit:$PATH
