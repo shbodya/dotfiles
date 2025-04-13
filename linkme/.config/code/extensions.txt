@@ -8,8 +8,6 @@ dineug.vuerd-vscode
 dsznajder.es7-react-js-snippets
 eamodio.gitlens
 esbenp.prettier-vscode
-github.copilot
-github.copilot-chat
 gitlab.gitlab-workflow
 golang.go
 hashicorp.terraform
