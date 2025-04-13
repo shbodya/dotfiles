@@ -1,4 +1,5 @@
 [core]
+uv = "formula"
 1password = "cask" # Password manager that keeps all passwords secure behind one password
 1password-cli = "cask" # Command-line interface for 1Password [command: op]
 
