@@ -1,4 +1,3 @@
-aaron-bond.better-comments
 amazonwebservices.amazon-q-vscode
 amazonwebservices.aws-toolkit-vscode
 anysphere.pyright
