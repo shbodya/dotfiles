@@ -240,15 +240,15 @@ done
 
 echo -e "\n🔄 Syncing installed apps to apps.toml..."
 brew_sync
-uv_sync
-mas_sync
+# uv_sync
+# mas_sync
 
 # Update Homebrew and installed formulas, casks and uv apps
 echo -e "\n🔼 Updating existing apps and packages..."
 brew update
 brew upgrade
-uv tool upgrade --all
-mas upgrade
+#uv tool upgrade --all
+#mas upgrade
 
 # Remove outdated versions from the cellar
 brew cleanup

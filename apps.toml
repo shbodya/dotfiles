@@ -6,7 +6,7 @@
 warp = "cask" # Terminal
 cursor = "cask" # Write, edit, and chat about your code with AI
 docker = "cask" # App to build and share containerised applications and microservices
-golang = "formula" # Open source programming language to build simple/reliable/efficient software
+go = "formula" # Open source programming language to build simple/reliable/efficient software
 "oven-sh/bun/bun" = "formula" # Bun is an all-in-one toolkit for JavaScript and TypeScript apps
 
 [work]
