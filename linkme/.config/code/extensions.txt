@@ -3,7 +3,6 @@ amazonwebservices.aws-toolkit-vscode
 anysphere.pyright
 bradlc.vscode-tailwindcss
 charliermarsh.ruff
-clemenspeters.format-json
 dbaeumer.vscode-eslint
 dineug.vuerd-vscode
 dsznajder.es7-react-js-snippets
