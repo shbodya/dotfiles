@@ -45,10 +45,5 @@ else
 	fi
 fi
 
-if [ -d "$DIRECTORY" ]; then
-  echo "$DIRECTORY does exist."
-	".oh-my-zsh/custom/themes/powerlevel10k"
-fi
-
 # shellcheck source=/dev/null
 source "${HOME}/.zprofile"
