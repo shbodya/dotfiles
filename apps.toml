@@ -18,6 +18,10 @@ azure-cli = "formula" # Official Azure command-line interface
 kubernetes-cli = "formula"
 helm = "formula"
 tenv = "formula"
+pre-commit = "formula"
+terraform-docs = "formula"
+tflint = "formula"
+trivy = "formula"
 
 [productivity]
 slack = "cask" # Team communication and collaboration software
