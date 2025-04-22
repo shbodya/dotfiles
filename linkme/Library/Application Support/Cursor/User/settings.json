@@ -56,5 +56,6 @@
     "aws.telemetry": false,
     "amazonQ.suppressPrompts": {
         "amazonQChatDisclaimer": true
-    }
+    },
+    "gitlens.ai.generateCommitMessage.enabled": false
 }

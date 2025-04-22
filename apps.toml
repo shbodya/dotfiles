@@ -23,6 +23,7 @@ pre-commit = "formula"
 terraform-docs = "formula"
 tflint = "formula"
 trivy = "formula"
+tfsec = "formula"
 
 [productivity]
 slack = "cask" # Team communication and collaboration software
