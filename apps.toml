@@ -11,6 +11,7 @@ go = "formula" # Open source programming language to build simple/reliable/effic
 "oven-sh/bun/bun" = "formula" # Bun is an all-in-one toolkit for JavaScript and TypeScript apps
 font-sauce-code-pro-nerd-font = "cask" # SauceCodePro Nerd Font (Source Code Pro)
 nvm = "formula" # Manage multiple Node.js versions
+freelens = "cask"
 
 [work]
 awscli = "formula" # Official Amazon AWS command-line interface
